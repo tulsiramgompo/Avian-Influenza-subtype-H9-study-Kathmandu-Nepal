@@ -1,0 +1,101 @@
+I.D.,address,flock_size,no_of_shed,age_days,mortality_pattern,total_mortality,farm_type,origin_of_chicks,origin_of_feed,vaccination_history,previous_outbreak_of_AI,water_source,flooring,age_of_farms,distance_from_main_road,apron,boot,vehicles ,water_bath,visitors,self_senitization,animal_and_birds,rodents,litter_dispose,dead_bird_disposal,nearby_farm_distance,nearby_farm_type,fencing,culling_during_sick,fumigation_of_farm,batch_interval,daignosis,sub_type,aiv_status
+T1,Kathmandu,1000,1,24,35/Day,,CB,Annapurna,Poshak,1,2,1,2,2 Years,0.5 km,1,1,2,2,1,1,1,1,1,1,0.5,1,2,1,2,1 Month,PM and Kit,H9,case
+T2,Bhaktapur,1100,4,14,35/Day,,CB,Avinash,Shakti,1,2,2,2,10 Years,0.2 km,2,1,2,2,2,2,1,1,1,1,0.07,1,2,1,2,75 Days,PM and Kit,H9,case
+T3,Kathmandu,1500,2,180,30/Day,,CL,Shreenagar,Sunaulo,1,1,3,2,1 Year,0.1 km,1,1,1,2,2,1,1,1,1,1,0.1,1,1,1,2,3 Months,PM and Kit,H9,case
+T4,Lalitpur,1300,1,60,"40, 65",,CL,Manandhar,Shakti,1,2,4,2,3 Months,0.1 km,1,2,1,2,1,1,1,1,1,1,0.5,1,2,2,2,15-20 Days,PM and Kit,H9,case
+T5,Lalitpur,200,1,37,10/Day,,"CB, Local","Local Market, Kathmandu",,1,2,2,1,4 Months,0.055 km,2,2,1,2,1,2,1,1,1,1,0.2,2,1,1,2,15-20 Days,PM and Kit,H9,case
+T6,Bhaktapur,2200,1,31,"2, 2, 30, 120",,CB,Valley,Siddhartha,1,2,1,2,6 Months,0.1 km,1,1,1,2,1,1,1,1,3,1,0.03,1,1,1,2,15-20 Days,PM and Kit,H9,case
+T7,Bhaktapur,25,1,365,45,,Duck,Nepal,Nepal,2,2,1,2,2 Years,1 km,2,2,1,2,1,2,1,1,1,1,0.2,3,2,2,2,15-20 Days,PM and Kit,H9,case
+T8,Kathmandu,350,1,545,2,,Duck,Nepal,Nepal,2,2,1,2,3 Years,1 km,2,2,1,2,1,2,1,1,1,1,0.2,3,2,2,2,15-20 Days,PM and Kit,H9,case
+T9,Bhaktapur,2000,1,36,8/Day,,CB,Star,Star,1,2,4,2,6 Months,0.02 km,2,2,1,2,1,1,1,1,1,1,2,2,2,1,2,15-20 Days,PM and Kit,H9,case
+T10,Kathmandu,2200,1,32,>100/Day,,CB,Aadhunik,Budhanilkantha,1,2,4,2,3 Years,4 km,1,1,2,2,2,1,2,1,1,1,0.05,1,2,1,2,45 Days,PM and Kit,H9,case
+T11,Kathmandu,18,1,98,4,,"Sakini, Duck",Aadhunik,Kantipur,1,2,3,2,5 Months,0.5 km,2,1,2,2,2,1,2,2,1,1,0.016,1,1,1,2,2 Months,PM and Kit,H9,case
+T12,Kathmandu,100,1,27,"5, 10, 17, 40",,CB,Valley,Poshak,1,2,1,1,5 Years,0.07 km,2,1,1,2,2,1,1,2,1,1,0.3,1,2,2,2,20 Days,PM and Kit,H9,case
+T13,"Thankot, Chandragiri-2",1500,1,9,100/Day,1300,CB,DG poultry,New Hope,1,2,1,2,6 Months,0.4 km,2,1,2,1,1,2,1,2,2,1,0.05 km,1,1,2,2,15 Days,PM and Kit,H9,case
+T14,Kirtipur-4,2500,2,32,"19,26,80,35,30,5",195,CB,Lalitpur,Siddhartha,1,2,1,2,2 Years,0.5 km,2,1,2,2,1,2,2,2,3,2,0.035 km,1,2,2,2,25 Days,PM and Kit,H5,case
+T15,"Gothatar-11, Manohara, Kageshowri",1000,2,36,20-25/Day for 6 Days,200,Backyard,Balaju,Quality,1,2,3,2,3 Years,0.025 km,2,2,2,2,1,1,1,1,1,1,0.005 km,,1,2,2,1 Month,PM and Kit,H9,case
+T16,Kapan,3000,2,26,"5,5,5,5,2,1",130,Kroiler,Valley,Valley,1,2,1,2,1 Year,0.5 km,2,1,2,2,1,2,1,2,1,1,0.035 km,1,2,1,2,15 Days,PM and Kit,H9,case
+T17,"Bhaktapur, Dadhikot",1600,2,3,"60,75,100,150,100,106,100",600,CB,Valley,Valley,1,2,1,2,1.5 Year,0.2 km,1,1,1,2,1,1,1,1,1,1,0.2 km,1,1,1,1,40 Days,PM and Kit,H9,case
+T18,Ramkot,2500,3,24,"4,13,24,100,100",250,CB,Banepa Hatchery,Siddhartha,1,2,4,2,5 Years,0.06 km,2,1,2,2,1,1,1,1,2,1,1 km,1,1,1,2,30 Days,PM and Kit,H9,case
+T19,Kirtipur,1000,1,35,"33,12",300,CB,,,1,2,1,2,2 Years,1 km,2,2,2,2,2,1,1,1,1,1,0.002 km,1,1,1,2,2 Months,PM and Kit,H9,case
+T20,Bhaisepati-25,2000,2,42,"10,17,40,60,166,166,155",650,CB,Valley,Valley,1,2,1,2,3 Years,0.2 km,1,1,2,2,1,2,1,1,1,2,1 km,1,2,1,2,20 Days,PM and Kit,H9,case
+T21,Sallaghari,2000,2,18,"10,20,45,50,150,150",500,CB,New Bandipur,New Bandipur,1,1,1,2,10 Years,1 km,1,1,2,2,2,1,2,1,1,1,0.01 km,1,2,2,2,5 Months,PM and Kit,H9,case
+T22,"Chaunikhel, Jagtol",3500,2,27,"10,10,40,27,65",300,CB,Budhanilkanth,Nepal Feed,1,2,4,2,6 Months,0.5 km,2,1,1,2,1,1,1,1,1,1,0.5 km,1,2,2,2,1 Month,PM and Kit,H9,case
+T23,Sundarijal,2200,1,105,"60,70",130 (1800 at follow up),CL,Shreenagar,Shreenagar,1,2,1,2,4 Months,2 km,1,1,2,2,1,2,1,2,1,1,1 km,2,2,1,2,25 Days,PM and Kit,H9,case
+T24,Dadhikot,1000,1,31,80-100/Day,700,CB,,Booster,2,2,1,2,6 Months,0.5 km,2,1,2,2,1,2,1,1,1,1,0.2 km,1,2,1,2,20 Days,PM and Kit,H9,case
+T25,Dadhikot,2500,1,31,"30,30,80,60,110,100",400,CB,Kantipur,Siddhartha,1,2,1,2,6 Months,1 km,2,1,2,2,1,1,1,2,1,1,0.3 km,1,2,1,2,1 Month,PM and Kit,H9,case
+T26,Kirtipur-4,2000,1,24,"8,15,32",150,CB,Chitwan,Chitwan,1,2,1,2,4 Years,0.06 km,1,1,2,2,2,1,2,1,1,1,0.15 km,1,1,2,1,20 Days,PM and Kit,H9,case
+T27,"Talcha, Panchitar",2000,1,,,,CL,Pancharatna ,Pancharatna,1,1,1,1,14 Years,0.3 km,2,1,1,1,2,1,2,1,3,1,1 km,2,1,1,1,2 Months,PM and Kit,H9,case
+T28,Bhaktapur,1800,1,210,131/Day,,CL,,,1,2,2,1,15 Years,0.01 km,1,1,2,1,2,1,2,2,3,1,1 km,2,1,1,1,5 Months,PM and Kit,H9,case
+T29,"Manamaiju, Tarakeshwor-9",2200,,270,10/day,,CL,Shreenagar,Shreenagar,1,2,3,1,4 Years,1 km,2,2,2,1,2,1,2,1,3,4,2 km,2,1,2,1,1 Month,PM and Kit,H9,case
+T30,"Teku, Kathmandu",2500,1,175,,,CL,Pancharatna ,Pancharatna,1,1,3,1,13 Years,0.15 km,1,1,1,1,2,1,2,1,3,3,0.8 km,2,1,1,1,2 Months,PM and Kit,H9,case
+T31,Goldhunga,4000,2,29,"12,30,80,300,400",3200,CB,Valley,Valley,1,2,4,2,1 Month,0.7 km,2,2,1,2,2,1,1,2,1,1,0.1 km,1,1,1,2,1 Month,PM and Kit,H9,case
+T32,"Thankot, Dhakatol",6000,7,112,"35,300,700",1035,CL,Loman,Adhunik,1,2,1,1,5 Years,0.2 km,1,1,1,1,1,1,2,1,3,1,0.01 km,2,1,1,2,3 Months,PM and Kit,H9,case
+T33,Thankot,,2,,2/day,,CL,Chitwan,Ganesh (Mash),1,2,1,2,2 Years,0.5 km,1,1,2,2,1,1,1,1,1,1,0.3 km,2,1,1,2,,PM and Kit,H9,case
+T34,Thankot,2040,2,34,"150,150,70,70,80,70,60,50,4",1200,CB,DG poultry,New Hope,1,2,1,2,3.5 Years,0.004 km,1,1,2,1,2,1,2,2,3,2,1 km,2,1,2,1,60 Days,PM and Kit,H9,case
+T35,"Duakot, Bhaktapur",6000,2,20,150/day,350,,Buddha Poultry,New Hope,1,2,3,2,8 Months,1 km,2,1,1,2,2,1,1,1,3,1,0.2 km,,1,1,1,1 Month,PM and Kit,H9,case
+T36,"Ramkot, Dadapauwa",3000,2,31,"100,80,85",450,,Daunne,Panchakanya,1,2,1,2,3 Years,3 km,1,1,2,,2,1,1,2,1,1,0.1 km,,1,2,1,75 Days,PM and Kit,H9,case
+T37,Chapagaun,7400,6,35,"12,14,26,54,150,100",600,Parent,Cobb Nepal,Kantipur,1,2,1,1,10 Years,0.4 km,2,1,1,1,2,1,2,1,3,1,1 km,1,1,1,1,2 Months,PM and Kit,H9,case
+T38,Tokha,3000,1,41,"120,100,100,120,90,90,70",2200,CB,,Nepal Pelete Feed,1,2,4,2,2 Years,0.3 km,2,1,1,2,1,2,2,1,3,2,0.4 km,4,2,1,2,20 Days,PM and Kit,H9,case
+T39,Ramkot,2000,,28,"50,50,50,10",,,Panchakanya,Panchakanya,1,2,1,2,10 Years,0.03 km,2,2,2,2,2,2,2,1,1,1,0.05 km,,1,2,1,25 Days,PM and Kit,H9,case
+T40,Tokha-1,500,1,60,"3,4",,,Sundhara,Siddhartha,1,2,4,2,3 Years,0.7 km,1,2,2,2,2,2,2,1,3,1,0.4 km,,2,1,1,3 Months,PM and Kit,H9,case
+T41,"Sangle, Tarakeshwor",200,1,31,"3,6,7",,CB,Valley,Siddhartha,1,1,2,2,1 Month,0.1 km,2,1,2,2,1,1,2,2,3,1,0.5 km,4,2,1,2,1 Month,PM and Kit,H9,case
+T42,"Tokha, Tarkeshwor",1000,1,115,"10,10,12,13,15,15,15",250,CL,Avinash,Sagarmatha,1,2,3,1,3 Months,0.05 km,1,1,1,2,2,1,2,2,3,1,0.01 km,2,2,1,1,3 Months,PM and Kit,H9,case
+T43,"Kapan, Chunikhel",1767,1,29,"20,15,60,50,50,30",450,CB,Annapurna,New Hope,1,2,3,2,<1 Year,1 km,2,1,2,1,2,1,1,1,3,1,0.025 km,1,1,1,1,4 Months,PM and Kit,H9,case
+T44,"Sanglekhola, Kathmandu",3200,2,126,25/day,2000,CL,Aadhunik,Aadhunik,1,2,3,1,4 Years,1 km,2,1,2,1,1,1,2,2,2,1,0.3 km,2,1,1,1,,PM and Kit,H9,case
+T45,"Nayapati, Sundarijal",2000,1,44,"40,40,50,45,35,35,35,36",700,CB,Kathmandu,Poshak,1,2,1,2,3 Years,0.3 km,1,1,2,1,2,1,1,2,4,2,1 km,4,2,1,1,10 Days,PM and Kit,H9,case
+T46,Tarakeshwor-7,15000,3,224,"5,10,30,40,75,125,250,400",1300,CL,Avinash,Self prepared,1,1,2,1,1 Year,0.5 km,1,1,1,2,2,1,1,1,3,1,0.2 km,2,1,1,1,4 Months,PM and Kit,H9,case
+T47,"Sangle, Tarakeshwor",1200,1,105,"150,120,70,9,5,2,12",600,CL,Aadhunik,Aadhunik,1,2,3,1,6 Months,3 km,1,1,2,1,2,1,2,1,1,1,0.007 km,2,1,1,1,6 Months,PM and Kit,H9,case
+T48,Farping-9,500,1,36,"40,35,40,50,100",400,Cross,Sanepa,Nimbus,1,2,2,2,1 Year,8 km,1,1,2,2,2,2,1,2,2,1,0.15 km,5,1,1,1,2 Months,PM and Kit,H9,case
+T49,"Sangle-1, Tarakeshwor",1050,1,105,,1045,CL,Aadhunik,Mash ,1,1,3,2,4 Months,0.1 km,1,1,2,1,1,1,1,1,2,1,0.05 km,1,1,1,2,4 Months,PM and Kit,H9,case
+T50,"Tokha, Kathmandu",1000,1,47,"10,20,30,65,66",200,CL,Srinagar,Sunaulo,1,2,3,2,8 Years,0.5 km,2,1,1,2,2,1,1,1,3,2,0.1 km,4,1,2,2,6 Months,PM and Kit,H9,case
+C1,Bhaktapur,1900,1,39,,270,1,Birjung,Shakti,1,2,1,2,40 Days,0.2,1,1,1,2,2,1,1,1,1,1,0.1,1,2,2,2,15-20 days,,negative,control
+C2,Kathmandu,1000,3,23,,230,1,Nilkanth,Nepal,1,2,2,2,3 Years,0.5,1,1,1,2,1,1,1,1,1,2,105,2,2,1,2,15-20 days,,negative,control
+C3,Lalitpur,1300,1,35,,100,1,Deshar,Booster,1,2,2,2,5 Months,0.2,1,1,2,1,2,1,2,2,1,1,5,2,2,2,2,15-20 days,,negative,control
+C4,Lalitpur,1000,1,45,,200,1,,,1,2,2,2,1 Year,0.2,2,1,2,2,2,1,1,1,3,2,0.025,1,2,1,2,15-20 days,,negative,control
+C5,Lalitpur,800,1,2,,20,1,Valley,Valley,1,2,1,2,9 Months,0.2,1,1,2,1,2,1,1,1,1,1,0.3,1,2,1,2,15-20 days,,negative,control
+C6,Bhaktapur,1700,2,30,,60,1,Aashapuri,Siddhartha,1,2,3,2,2 Years,1,1,1,1,2,2,1,1,1,1,2,0.002,1,2,1,2,15-20 days,,negative,control
+C7,Bhaktapur,2800,3,28,,180,1,Kantipur,Kantipur,1,2,2,2,1 Month,0.025,1,1,1,2,1,1,2,1,3,1,0.025,2,1,1,2,15-20 days,,negative,control
+C8,Kathmandu,3000,2,66,,200,2,Avinash,North Sky,1,2,3,1,6 Months,1,2,1,2,2,2,1,1,1,1,1,0.3,1,1,1,2,1 Month,,negative,control
+C9,Bhaktapur,2000,2,55,,150,5 (Kroiler),,Booster,1,2,2,1,4 Years,0.05,1,1,1,2,2,1,1,1,1,1,5,1,1,1,1,10-15 Days,,negative,control
+C10,Bhaktapur,500,1,120,,200,5 (Kroiler),,Quality,1,2,2,1,5 Months,0.5,2,2,2,2,2,2,1,1,1,1,2,2,2,2,2,1 Month,,negative,control
+C11,Lalitpur,1200,1,16,,50,1,Aashapuri,Booster,1,2,1,2,20 Days,1,1,1,1,2,2,1,2,2,3,1,2,5 (Kroiler),1,1,1,15-20 days,,negative,control
+C12,Kathmandu,2000,1,38,,200,1,Bagmati,Poshak,1,2,3,2,3 Years,0.1,1,1,1,2,1,1,1,1,1,2,0.4,1,1,1,1,10-12 days,,negative,control
+C13,Kathmandu,1800,1,20,,200,1,Manandhar,Bijay,1,2,1,2,10 Years,0.2,1,1,1,2,2,1,1,1,1,1,0.5,1,1,1,1,1 Month,,negative,control
+C14,Kathmandu,1000,1,26,,35,1,Aadhunik,Bijay,1,2,1,2,30 Days,10,2,2,1,2,1,2,1,1,3,2,0.003,1,2,1,2,15-20 days,,negative,control
+C15,Sundarijal,1000,1,165,,12,5 (Kroiler),Balaju,North Sky,1,2,3,2,6 Months,1,1,1,2,2,1,1,1,1,3,1,5,1,1,1,2,15-20 days,,negative,control
+C16,"Futung, Balaju",1500,1,105,,120,2,Pancharatna,Sagarmatha,1,2,4,1,4 Months,0.007,2,1,1,2,2,1,1,2,3,1,0.5,1,2,1,2,15-20 days,,negative,control
+C17,"Gokarneshwor-1, Sundarijal",1000,1,182,,100,2,Panchakanya,Aadhunik,1,2,1,2,6 Months,6,1,1,2,2,2,1,2,2,3,1,10,2,1,1,2,15-20 days,,negative,control
+C18,"Changunarayan-8, Bhaktapur",1100,1,60,,50,1,Baisdhara,Poshak,1,2,3,2,5 Years,0.02,1,1,2,2,2,1,1,1,1,2,0.3,1,1,1,2,15-25 days,,negative,control
+C19,"Bishnudol, Lalitpur",4000,2,24,,36,1,Budhanilkantha,Budhanilkantha,1,2,1,2,6 Months,0.5,1,1,1,2,1,1,1,1,1,1,1.5,1,1,1,2,15-20 days,,negative,control
+C20,Kathmandu,2000,1,38,,300,1,Daunne,Poshak,1,2,1,2,2 Years,0.4,2,2,1,2,2,2,1,1,1,2,0.2,1,1,1,2,15-20 days,,negative,control
+C21,"Gajuri-1, Dhading",5000,3,22,,500,1,Avinash,Valley,1,2,1,2,6 Years,0.5,2,1,2,2,2,2,1,1,1,1,0.015,1,1,2,2,15-20 days,,negative,control
+C22,"Bhaisipati-21, Lalitpur",2000,1,37,,150,1,Manandhar,Bijay,1,2,2,2,1 Year,0.006,2,2,1,2,2,2,1,1,1,2,2,1,2,1,2,20-25 days,,negative,control
+C23,"Futung, Balaju",1000,1,30,,25,1,,CSC,1,2,4,1,2 Years,0.005,2,1,2,2,2,2,1,1,1,1,1,1,2,2,2,15-20 days,,negative,control
+C24,Machhegaun,1200,1,16,,20,1,,Poshak,1,2,1,1,4 Years,2,1,1,1,2,2,1,1,2,1,1,0.005,5 (Kroiler),1,1,2,1 Month,,negative,control
+C25,"Chagathali, Lalitpur",500,1,65,,120,5 (Giriraj),,,1,2,1,2,3 Years,1,2,1,2,2,1,1,1,1,1,1,2.5,2,1,2,2,1 Month,,negative,control
+C26,"Suntakhan, Gokarna",2000,1,7,,200,1,Daunne,Poshak,1,2,4,2,15 Days,0.25,2,2,2,2,1,2,1,1,1,2,0.4,1,2,2,2,15-20 days,,negative,control
+C27,Sindhupalchowk,5500,2,195,,1500,2,,Sindhu,1,2,4,1,8 Months,0.5,1,1,1,2,1,1,2,2,1,1,3,1,2,1,2,1 Month,,negative,control
+C28,Lalitpur,30,1,110,,5,2,,,2,2,1,2,,,2,2,2,2,1,2,2,1,1,1,,,2,2,2,,,negative,control
+C29,Goldunga,1200,1,25,,50,1,Vijay,Vijay,1,2,2,2,18 Months,0.1,1,1,1,1,2,1,1,1,3,1,0.15,,2,1,1,1 Month,,negative,control
+C30,"Balkumari, Lalitpur",700,1,90,,500,5 (Local),Thankot,Poshak,1,2,1,2,4 Months,0.5,2,1,1,2,2,1,2,1,1,1,0.025,,1,1,1st batch,1st Batch,,negative,control
+C31,Godawari,1100,1,30,,158,1,,Poshak,2,2,1,2,1 Month,0.2,1,1,1,1,2,1,1,1,3,1,0.3,1,2,2,2,2 Months,,negative,control
+C32,"Sunakathi, Lalitpur",800,1,90,,200,5 (Kroiler),Balaju,Shakti,1,2,3,2,3 Months,0.004,2,2,1,2,2,1,1,2,4,4,0.15,4,1,1,2,,,negative,control
+C33,"Godawari, Lalitpur",40,1,28,,5,5 (Giriraj),Deshar,Deshar,2,2,4,2,1 Month,0.02,2,2,1,2,1,2,1,1,4,1,5,1,1,1,2,1 Month,,negative,control
+C34,Lalitpur,2500,1,31,,220,1,Champapuran,Champapuran,1,2,2,2,1 Month,3,2,1,2,2,2,1,1,1,2,1,0.3,5 (Giriraj),2,1,2,1 Month,,negative,control
+C35,"Balyan, Kathmandu",2200,1,3,,31,1,Trishuli,Valley,1,2,1,1,5 Years,0.02,2,1,2,2,2,2,2,1,3,2,0.2,1,1,1,1,1 Month,,negative,control
+C36,Kathmandu,1000,1,29,,100,1,Dhaneshwari,Poshak,1,2,1,2,1 Month,4,2,1,1,2,1,1,1,1,2,1,0.2,1,2,1,2, 1 Month,,negative,control
+C37,"Jhor, Kathmandu",1500,1,28,,180,1,Bhaktapur,Phuyal,1,2,2,1,7 Years,0.01,1,1,2,1,2,1,1,1,3,1,0.07,2,1,1,1,1 Month,,negative,control
+C38,Bhaktapur,12000,4,56,,1000,2,Balaju,New Hope,1,2,1,1,3 Years,2,1,1,1,2,2,1,1,1,3,1,0.02,1,1,1,2,3 Months,,negative,control
+C39,"Harisiddhi, Lalitpur",600,2,365,,100,5 (Local),Self,Quality,1,2,2,2,4 Years,0.3,2,2,2,2,1,1,1,1,2,1,0.01,5,1,1,1,5 Days,,negative,control
+C40,"Gagalfedi, Kathmandu",1000,1,13,,50,1,Daunne,Poshak,1,2,1,2,15 Days,0.01,2,1,1,2,2,1,1,2,1,1,0.05,1,2,2,2,1 Month,,negative,control
+C41,"Baneshwor, Kathmandu",200,1,65,,6,4,Kathmandu,Balaju,1,2,1,1,2 Months,0.05,2,2,1,2,1,2,1,1,1,1,0.01,4,1,1,2,1 Month,,negative,control
+C42,"Kirtipur, Kathmandu",3500,2,210,,400,2,Poshak,Poshak,1,2,1,1,8 Months,0.1,1,1,1,2,1,1,1,1,2,1,0.1,2,1,1,1,1 Month,,negative,control
+C43,"Jhor, Kathmandu",2000,1,29,,400,1,Valley,Siddhartha,1,2,4,2,1 Year,0.05,2,1,2,2,1,1,1,1,1,1,0.2,1,2,2,2,1 Month,,negative,control
+C44,"Arubari, Kathmandu",1700,1,10,,2,1,Shankarapur,Valley,1,2,1,2,17 Years,0.01,2,1,1,2,1,2,1,1,2,3,0.1,1,2,1,2,1 Month,,negative,control
+C45,"Narayanthan, Kathmandu",300,1,125,,240,(5) Kroiler,Balaju,Hattigauda,1,2,1,2,3 Years,1,2,2,2,2,2,2,1,1,2,1,0.1,5 (Kroiler),2,2,2,2 Months,,negative,control
+C46,Chandragiri Kathmandu,1000,1,4,,170,1,Bagmati,Poshak,1,2,3,2,1 Year,0.09,2,1,2,2,2,1,1,1,1,2,1.5,1,2,1,2,1 Month,,negative,control
+C47,"Kirtipur, Kathmandu",2000,1,188,,325,2,Lalitpur,Poshak,1,2,1,1,10 Years,0.01,1,1,1,2,2,1,2,1,3,1,0.015,2,1,2,2,6 Months,,negative,control
+C48,Bhaktapur,1000,1,35,,150,1,Aashapuri,Kantipur,1,2,2,2,30 Years,0.2,2,1,1,2,2,1,1,1,3,1,0.5,1,1,2,2,1 Month,,negative,control
+C49,"Thankot, Kathmandu",1200,1,420,,2,2,Loman,Ganesh,1,2,1,1,2 Years,0.5,1,1,2,2,2,1,1,1,3,1,2,1,2,1,2,1 Year,,negative,control
+C50,"Taudaha, Kathmandu",920,1,4,,33,1,RKB,Valley,1,2,4,2,6 Months,0.25,2,1,1,2,2,1,2,1,1,4 (Throw),0.5,1,1,1,2,8 Months,,negative,control
